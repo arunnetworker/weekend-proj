@@ -11,3 +11,13 @@ CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "80"]
 #123
 #456
 #789
+#k8s
+#docker
+#git
+#github
+#terraform
+#ansible
+#splunk
+#prometheus
+#grafana
+#jenkins
